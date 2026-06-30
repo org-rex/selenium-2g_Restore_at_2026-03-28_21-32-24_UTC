@@ -180,7 +180,7 @@ GEM
       hashdiff (>= 0.4.0, < 2.0.0)
     webrick (1.9.1)
     websocket (1.2.11)
-    yard (0.9.37)
+    yard (0.9.44)
 
 PLATFORMS
   arm64-darwin-23
@@ -192,7 +192,6 @@ PLATFORMS
   universal-java-18
   universal-java-21
   x64-mingw-ucrt
-  x64-mingw32
   x86_64-darwin-22
   x86_64-linux
 
